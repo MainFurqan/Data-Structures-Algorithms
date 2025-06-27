@@ -3,7 +3,9 @@
 #include <climits>
 using namespace std;
 
-// Leetcode Problem #53: Maximum Subarray Sum
+// Leetcode 
+// Problem #53: Maximum Subarray Sum
+// Given an integer array nums, find the subarray with the largest sum, and return its sum.
 
 class Solution {
 public:

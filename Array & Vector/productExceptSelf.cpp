@@ -2,6 +2,9 @@
 #include <vector>
 using namespace std;
 
+// LeetCode 
+// PS 238: Product of Array Except self
+// Given an integer array nums, return an array answer such that answer[i] is equal to the product of all the elements of nums except nums[i].
 
 class Solution {
 public:
